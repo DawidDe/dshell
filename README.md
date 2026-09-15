@@ -1,0 +1,1 @@
+My own in QuickShell programmed shell for my NixOS setup.
