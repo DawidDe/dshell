@@ -1,8 +1,9 @@
-import "modules"
-import QtQuick
 import Quickshell
-import qs.services
+
+import "./modules/lockscreen"
 
 ShellRoot {
     id: root
+
+    LockScreen {}
 }
